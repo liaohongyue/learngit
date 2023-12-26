@@ -7,3 +7,4 @@ Create a new branch is quick AMD simple in feature1 and master
 create a test for test "add merge" whih "-no-ff"
 these something bugs
 i do somethin in dev
+after deal with bugs after fix bugs
