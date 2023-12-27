@@ -8,3 +8,7 @@ create a test for test "add merge" whih "-no-ff"
 these something bugs
 i do somethin in dev
 after deal with bugs after fix bugs
+
+
+do somethins in second day.
+write some bug002.
