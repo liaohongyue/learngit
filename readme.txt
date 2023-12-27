@@ -12,3 +12,4 @@ after deal with bugs after fix bugs
 
 do somethins in second day.
 write some bug002.
+do othering in master
