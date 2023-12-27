@@ -11,4 +11,4 @@ after deal with bugs after fix bugs
 
 
 do somethins in second day.
-write some bug002.
+write some bug002. have fix bug002 in bug002 branch
